@@ -1,4 +1,4 @@
-# landing-page
+# calculate
 
 ## Project setup
 ```
